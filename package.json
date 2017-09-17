@@ -1,0 +1,29 @@
+{
+    "name": "gladys-dspw215",
+    "version": "0.0.1",
+    "description": "Gladys plugin for DSP w215",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "hnap": "2.1.0",
+        "require-uncached": "1.0.3"
+    },
+    "author": "Philippe Macé <philippe.mace@gmail.com>",
+    "license": "APACHE 2.0",
+    "engines": {
+        "node": ">=6.9.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PhilippeMA/gladys-DSPW215.git"
+    },
+    "keywords": [
+        "gladys",
+        "D-Link",
+        "dlink",
+        "w215",
+        "dsp"
+    ]
+}

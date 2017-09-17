@@ -4,7 +4,7 @@ module.exports = function(sails) {
     var exec = require('./lib/exec.js');
 
     return {
-        //setup: setup,
+        setup: setup,
         exec: exec
     };
 };

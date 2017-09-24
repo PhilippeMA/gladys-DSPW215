@@ -1,6 +1,6 @@
 {
     "name": "gladys-dspw215",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Gladys plugin for DSP w215",
     "main": "index.js",
     "scripts": {
@@ -8,7 +8,8 @@
     },
     "dependencies": {
         "hnap": "2.1.0",
-        "require-uncached": "1.0.3"
+        "require-uncached": "1.0.3",
+        "bottleneck": "1.16.0"
     },
     "author": "Philippe Macé <philippe.mace@gmail.com>",
     "license": "APACHE 2.0",
